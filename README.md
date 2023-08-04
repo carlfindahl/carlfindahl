@@ -2,7 +2,7 @@
 
 Hey there, I'm Carl! 👋
 
-As an Android Dev pro 🤖, I play around with the latest Android and Jetpack Compose versions. Plus, I've got serious chops in C++ and native programming. 🚀
+As an Android Dev pro 🤖, I play around with the latest Android and Jetpack Compose versions. Plus, I've got serious chops in Rust, C++, and native programming. 🚀
 
 Eternal learner here 🧠, always up-to-speed with the Android universe. Creating slick and seamless user experiences is my jam! 🎮
 
