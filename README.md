@@ -2,10 +2,10 @@
 
 Hey there, I'm Carl! 👋
 
-As an Android Dev pro 🤖, I play around with the latest Android and Jetpack Compose versions. Plus, I've got serious chops in Rust, C++, and native programming. 🚀
+As an Android Dev 🤖, I play around with the latest Android and Jetpack Compose versions. Plus, I've got serious chops in Rust and C/C++ too. 🚀
 
 Eternal learner here 🧠, always up-to-speed with the Android universe. Creating slick and seamless user experiences is my jam! 🎮
 
-Currently, I'm weaving magic at Ark Bokhandel 📚. Off-work, you'll find me in my 'goblin mode' 🧙‍♂️, often crafting tales through film-making 🎥.
+Currently, I'm weaving magic at Beining&Bogen 📚. Off-work, you'll find me in my 'goblin mode' 🧙‍♂️, often crafting tales through film-making 🎥.
 
 Dive into my GitHub ocean, and let's ride the tech wave together! 🏄‍♂️💻
